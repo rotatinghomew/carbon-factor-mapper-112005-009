@@ -1,0 +1,16 @@
+{
+  "methods": [
+    {
+      "version": "m-2026.1",
+      "boundary": "cradle-to-gate",
+      "normalization": "mass",
+      "effective_from": "2026-01-01"
+    },
+    {
+      "version": "m-2026.2",
+      "boundary": "cradle-to-gate",
+      "normalization": "mass",
+      "effective_from": "2026-09-01"
+    }
+  ]
+}

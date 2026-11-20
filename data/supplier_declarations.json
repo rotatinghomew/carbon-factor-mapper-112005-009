@@ -1,0 +1,22 @@
+{
+  "declarations": [
+    {
+      "declaration_id": "D-01",
+      "supplier_id": "S001",
+      "product_code": "AL-01",
+      "period": "2026-08",
+      "value": 1.7,
+      "unit": "kg",
+      "method_version": "supplier-3"
+    },
+    {
+      "declaration_id": "D-02",
+      "supplier_id": "S002",
+      "product_code": "AL-01",
+      "period": "2026-08",
+      "value": 1.6,
+      "unit": "tonne",
+      "method_version": "supplier-2"
+    }
+  ]
+}

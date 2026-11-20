@@ -1,0 +1,4 @@
+activity_id,product_code,economy,period,unit,amount,supplier_id
+ACT01,AL-01,CN,2026-08,kg,12000,S001
+ACT02,AL-01,KR,2026-08,tonne,8,S002
+ACT03,CU-02,TH,2026-08,kwh,43000,S003

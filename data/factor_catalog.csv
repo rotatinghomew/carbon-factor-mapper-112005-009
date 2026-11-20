@@ -1,0 +1,5 @@
+factor_id,version,product_code,economy,unit,value,boundary,status
+F001,v1,AL-01,CN,kg,1.8,cradle-to-gate,active
+F002,v1,AL-01,KR,tonne,1.5,cradle-to-gate,active
+F003,v2,AL-01,KR,tonne,1.7,cradle-to-gate,draft
+F004,v1,CU-02,TH,kwh,0.52,scope2,withdrawn
